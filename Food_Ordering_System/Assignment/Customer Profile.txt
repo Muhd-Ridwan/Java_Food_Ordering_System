@@ -1,0 +1,4 @@
+C01;27-12-1999;Nabil;Udin;0123456789;Rawang;abc@gmail.com;116.8
+C02;02-11-2001;Ridwan;Udin;0123456789;Shah Alam;abcd@gmail.com;250.8
+C03;27-12-1998;Adam;Udin;0145678239;Klang;logitech@gmail.com;297.9
+C04;27-12-1997;Hujan;Udin;0123456789;Shah Alam;techware@gmail.com;277.8

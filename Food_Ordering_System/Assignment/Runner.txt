@@ -1,0 +1,5 @@
+DR01;Johnny;unavailable
+DR02;John2;available
+DR03;John3;available
+DR04;John4;available
+DR05;John5;available

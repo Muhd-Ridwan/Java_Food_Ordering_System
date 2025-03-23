@@ -1,0 +1,12 @@
+U001;C01;Ridwan;abcde123456;Customer;Favourite Animal;kucing;abcd123@gmail.com
+U002;C02;WeiLun;wkk3538;Customer;Favourite Food;Nasi Lemak;abc123@gmail.com
+U003;VD001;Helios;abcd123;Vendor;Favourite Colour;Yellow;abcd123@gmail.com
+U004;VD002;HDMI;abcd1234;Vendor;Favourite Animal;Kucing;abc1234@gmail.com
+U005;C03;Adam;abc12345;Customer;Favourite Food;Roti Canai;logitech@gmail.com
+U006;VD003;Sushi;abcd12;Vendor;Favourite Colour;Green;abcde123@gmail.com
+U007;DR01;white;abcd1234;Runner;Favourite Colour;Black;abc123@iphone.com
+U008;C04;Hujan;abc123;Customer;Favourite Animal;Dog;abc123@rk61.com
+U009;DR02;Yousef;abc123;Runner;Favourite Food;Maggie;abc123@yahoo.com
+U010;DR03;John5;abc123;Runner;Favourite Animal;Porcupine;abc123@turbo.com
+U011;DR05;John6;abc123;Runner;Favourite Food;Nasi;abcd123@esc.com
+U012;DR04;John7;abc123;Runner;Favourite Food;Bean;abcd123@dts.com

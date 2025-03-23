@@ -1,0 +1,2 @@
+001F;Rasa Sayang;Nasi Lemak;4;Delicious, Ambiguous;001R;5
+002F;Burger King;Chicken Burger;5;Burger too small, expensive;001R;10

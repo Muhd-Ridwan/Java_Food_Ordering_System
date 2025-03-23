@@ -1,0 +1,11 @@
+VD001;F001;Burger;16.90;Chicken Burger filled out with spicy sauce serve with fries;Out Of Stock;E:\APU YEAR 2 SEM 1\OOP JAVA\GUIProject\Assignment\src\Customer\img\burger.png
+VD001;F002;Bolognese Pasta;12.90;Pasta filled with tomato sauce, serves with cheese;Stock Available;-
+VD001;F003;Hawaiian Pizza;12.90;traditionally topped with pineapple, tomato sauce, mozzarella cheese;Stock Available;-
+VD002;F011;Nasi Lemak;5.00;fragrant rice cooked in coconut milk and pandan leaf;Stock;-
+VD002;F013;Maggie Goreng;3.10;Fried Maggie;Stock;-
+VD002;F014;Roti Canai;2.10;Fried Dough;Stock;C:\APU\SEM 3\OODJ\Assignment\Food_Ordering_System-Compile-1\New Compilation\Assignment\src\Customer\img\roti canai.png
+VD003;F021;Teh Tarik;2.10;Tea;Stock;E:\APU YEAR 2 SEM 1\OOP JAVA\GUIProject\Assignment\src\Customer\img\water.png
+VD003;F022;Barley;2.20;Barley;Stock;-
+VD003;F023;Coffee;2.50;Coffee;Stock;-
+VD003;F024;Honey Lemon;3.50;Honey Lemon;Stock;-
+VD001;F011;Fish&Chip;10.30;Consists of Fish, fries, and salad;Stock Available;-

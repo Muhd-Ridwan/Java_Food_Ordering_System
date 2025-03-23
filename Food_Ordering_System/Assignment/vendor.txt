@@ -1,0 +1,4 @@
+VD001;Rasa Sayang;Fast Food;186.0;0123456789;Petaling Jaya;abcd123@gmail.com
+VD002;Burger King;Fast Food;111.9;0198765432;Bukit Bintang;abc1234@gmail.com
+VD003;Sushi Master;Japanese;587.4;0143278659;Cheras;abcde123@gmail.com
+VD004;Tonkatsu;Japanese;400;015789632;Bukit Idaman;abcdefg123456@gmail.com

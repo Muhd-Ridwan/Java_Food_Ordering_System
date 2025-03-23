@@ -1,0 +1,3 @@
+VR001;JM008;VD002;Sushi Master;Adam;2;Air sedap wooo. teh tarik kaw punya dari indunezia
+VR002;JM010;VD002;Sushi Master;Adam;5;sedap sedap
+VR003;JM012;VD003;Sushi Master;null;5;Delicious
