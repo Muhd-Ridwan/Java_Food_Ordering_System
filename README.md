@@ -47,3 +47,9 @@ An Object-Oriented, multi-user food court application designed to streamline foo
 1. Monitor vendor performance
 2. Evaluate runner performance through feedback & ratings
 3. Resolve customer disputes and complaints
+
+# Use Case Diagram
+![Image](https://github.com/user-attachments/assets/e9c0c820-c99c-4acc-94c5-18239ff2dcff)
+
+# Class Diagram
+![Image](https://github.com/user-attachments/assets/d4fabf4b-8a46-4e5d-97d7-356a31fb6223)
