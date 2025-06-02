@@ -1,5 +1,5 @@
 # Java_Food_Ordering_System
-An Object-Oriented, multi-user food court application designed to streamline food ordering, delivery, and user management for vendors, customers, delivery runners, administrators, and managers. This system simplifies daily food court operations including order placement, payment via digital wallet, notifications, and performance tracking — all through a user-friendly application interface.
+An Object-Oriented, multi-user food court application designed to streamline food ordering, delivery, and user management for vendors, customers, delivery runners, administrators, and managers. This system simplifies daily food court operations including order placement, payment via digital wallet, notifications, and performance tracking all through a user-friendly application interface.
 
 # Key Features
 1. Login & Role-based Access for Vendor, Customer, Delivery Runner, Admin, and Manager
